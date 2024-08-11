@@ -1,0 +1,14 @@
+.center {
+  text-align: center;
+}
+
+.text-underline {
+    text-align: center; /* Centraliza o texto */
+    font-size: 14px; /* Ajuste o tamanho da fonte conforme necessário */
+    text-decoration: underline;
+    text-decoration-color: blue; /* Cor da linha de sublinhado */
+    text-decoration-style: solid; /* Estilo da linha de sublinhado (sólido) */
+    border-bottom: 1px dashed black; /* Linha tracejada preta abaixo do texto */
+    display: inline-block; /* Para permitir que a borda inferior funcione corretamente */
+    padding-bottom: 5px; /* Espaço entre o texto e a linha tracejada */
+}
